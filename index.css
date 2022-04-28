@@ -1,7 +1,18 @@
 .dark-mode {
-    background-color: #112936f7
+  background-color: #112936f7;
 }
 
 .dark-mode > h1 {
-    color: white;
+  color: white;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#story-button {
+  margin: 20px;
 }
