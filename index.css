@@ -1,0 +1,7 @@
+.dark-mode {
+    background-color: #112936f7
+}
+
+.dark-mode > h1 {
+    color: white;
+}
